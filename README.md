@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Dr-developer
-- 👀 I’m interested in Game Devlopment 
-- 🌱 I’m currently learning Unity Matching Learing
+- 👋 Hi, I’m Amir Alishahi
+- 👀 I’m A simple unity Game Developer and Game Designer 
+- 🌱 I’m currently Working On a Card Game That Will Be Publish Soon
 - 💞️ I’m looking to collaborate on Game Projects 
-- 📫 How to reach me via email 
+- 📫 Reach me via email 
 
 
 <!---
