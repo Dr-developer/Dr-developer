@@ -9,7 +9,9 @@
 <br clear="both">
 
 <p align="left">I'm a passionate developer and designer with experience building games from the ground up, especially in startup environments and indie projects.<br>I enjoy blending technical problem-solving with creative design to deliver engaging player experiences.<br><br>Currently working on **Odysape Web Game **, an NFT Game project where I focus on both gameplay design and technical development.<br><br>📫 Reach me at: Alishahi.amir1939@gmail.com</p>
+
 ---
+
 ###
 
 <h2 align="left">🌐 Connect with Me</h2>
