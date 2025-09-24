@@ -26,7 +26,9 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
+
 ---
+
 ###
 
 <h2 align="left">💻 Tech Stack</h2>
@@ -48,7 +50,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
 </div>
+
 ---
+
 ###
 
 <h2 align="left">📊 GitHub Stats</h2>
@@ -62,7 +66,9 @@
 </div>
 
 ###
+
 ---
+
 <h2 align="left">✨ Highlights</h2>
 
 ###
@@ -70,7 +76,9 @@
 <p align="left">🚀 Experienced in startup environments, building prototypes and shipping playable games quickly.<br>    🎨 Designed game mechanics, economies, and UX for both indie and studio projects.<br>    🛠 Blending technical depth (Unity, C#, networking, gameplay systems) with creative design.</p>
 
 ###
+
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dr-developer/Dr-developer/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dr-developer/Dr-developer/output/pacman-contribution-graph.svg">
