@@ -77,7 +77,9 @@
 
 ###
 
+---
 
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dr-developer/Dr-developer/output/pacman-contribution-graph-dark.svg">
